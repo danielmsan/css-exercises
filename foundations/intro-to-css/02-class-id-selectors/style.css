@@ -1,0 +1,19 @@
+.impar{
+    background-color: #FF7F7F;
+    font-family: 'Verdana',"DejaVu Sans",sans-serif;
+}
+
+#segundo{
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#cuarto{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
